@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Langar&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Langar&family=Montserrat:wght@300&display=swap");
+
+/* font-family: 'Montserrat', sans-serif; */
+
+/* font-family: 'Langar', cursive; */
+
+.App {
+  font-family: "Langar", cursive;
+  text-align: center;
+  color: white;
+}
+
+html {
+  background: black;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+}
+span {
+  display: inline-block;
+  font-size: 3rem;
+  margin: 1rem;
+  padding: 0.1rem;
+}
